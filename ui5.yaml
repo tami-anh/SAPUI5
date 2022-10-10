@@ -1,0 +1,7 @@
+specVersion: '2.6'
+metadata:
+  name: sapui5
+type: application
+framework:
+  name: OpenUI5
+  version: "1.107.1"
